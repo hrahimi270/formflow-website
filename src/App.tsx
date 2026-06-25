@@ -263,7 +263,7 @@ const pricing: {
     available: false,
     blurb: 'Everything to ship serious forms.',
     prices: {
-      annual: { price: '$99', note: 'per project · billed yearly' },
+      annual: { price: '$79', note: 'per project · billed yearly' },
       lifetime: { price: '$249', note: 'per project · one-time' },
     },
     features: [
@@ -282,8 +282,8 @@ const pricing: {
     available: false,
     blurb: 'For compliance-bound teams.',
     prices: {
-      annual: { price: '$399', note: 'per project · billed yearly' },
-      lifetime: { price: '$999', note: 'per project · one-time' },
+      annual: { price: '$299', note: 'per project · billed yearly' },
+      lifetime: { price: '$899', note: 'per project · one-time' },
     },
     features: [
       'Everything in Pro, plus —',
