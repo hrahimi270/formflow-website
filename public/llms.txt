@@ -1,0 +1,19 @@
+# FormFlow
+
+> The headless form builder for Strapi v5. Build forms visually in the Strapi
+> admin and render them anywhere over a clean REST API with headless React and
+> Vue SDKs — validation, spam protection, email, webhooks and exports included.
+> Open-core, MIT-licensed free tier.
+
+## Site
+- [Home](https://hrahimi270.github.io/formflow/): Product overview, how it works, field types, SDKs, pricing.
+- [Blog](https://hrahimi270.github.io/formflow/blog): Tutorials, guides and product updates.
+- [Tutorials](https://hrahimi270.github.io/formflow/blog/tutorials): Step-by-step, hands-on guides to using the plugin.
+- [Guides](https://hrahimi270.github.io/formflow/blog/guides): Concept and architecture articles on headless forms.
+- [Product updates](https://hrahimi270.github.io/formflow/blog/product-updates): Release notes and announcements.
+
+## Resources
+- [GitHub repository](https://github.com/hrahimi270/strapi-plugin-formflow)
+- [npm package](https://www.npmjs.com/package/@formflowjs/strapi-plugin-formflow)
+- [Frontend SDKs](https://github.com/hrahimi270/formflow-sdk): @formflowjs/react and @formflowjs/vue.
+- [Sitemap](https://hrahimi270.github.io/formflow/sitemap.xml)
